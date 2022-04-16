@@ -1,0 +1,14 @@
+body {
+  color: rgb(105, 25, 105);
+  background-color: rgb(32, 117, 89);
+  font-size: 1.5em;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy, Arial;
+  text-align: center;
+  padding-top: 2em;
+}
+
+#wh {
+  background-color: rgb(174, 223, 111);
+  padding: 1em;
+  margin: 1em;
+}
